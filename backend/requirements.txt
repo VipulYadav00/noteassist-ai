@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+aiofiles
+torch
+openai-whisper
+transformers
+sentencepiece
+nltk
+sumy
+sqlalchemy
+mysql-connector-python
+reportlab
